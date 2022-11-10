@@ -1,10 +1,17 @@
-#box{
-
+.box{
+display: inline-block;
+text-align: center;
 background-color: #F25A70;
 width: 630px;
-height: 184px;
+height: 130px;
 box-shadow: 10px 10px 0px black;
-margin-left:  80px;
-margin-top:   80px;
+
+padding: 18px 44px;
+
+}
+
+.box .h1{
+
+    margin-bottom: 30px;
 
 }

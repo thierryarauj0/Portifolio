@@ -1,0 +1,20 @@
+.a{
+    display: inline-flex;
+    align-items: center;
+    color:rgb(255, 255, 255);
+    font-size: 13px;
+    font-family: 'Press Start 2P', sans-serif ;
+    font-weight: 500;
+    text-decoration: none ;
+    margin-right: 30px;
+}
+
+.a::before {
+    content: "";
+    background-color:#F25A70 ;
+         width: 10px;
+         height: 10px;
+         margin: 30px;
+ 
+     }
+ 
