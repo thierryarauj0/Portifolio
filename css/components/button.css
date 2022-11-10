@@ -1,0 +1,17 @@
+.button{
+
+    background-color: #F25A70;
+    display:  inline-block ;
+    padding: 18px 20px;
+    margin-right: 0;
+    box-shadow:5px 5px 0px black;
+    transition: transform 100ms linear, opacity 200ms ease-in-out;
+}   
+
+.button:hover{
+
+transform: scale(1.1) ;
+opacity: 0.5;
+}
+
+
