@@ -1,4 +1,4 @@
-#button{
+.button{
 
     background-color: #F25A70;
     display:  inline-block ;
@@ -8,7 +8,7 @@
     transition: transform 100ms linear, opacity 200ms ease-in-out;
 }   
 
-#button:hover{
+.button:hover{
 
 transform: scale(1.1) ;
 opacity: 0.5;
