@@ -1,0 +1,34 @@
+.banner{
+
+    background-color: #3A4042;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 800px;
+    border-bottom: 10px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.banner .wrapper {
+
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+}
+
+.banner .box {
+
+    margin-bottom: 38px;
+    margin-top: 100px;  
+    margin-left: 90px;
+}
+
+
+
+.banner .navigation {
+    
+    display: flex;
+    justify-content:start;
+}
