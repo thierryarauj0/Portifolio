@@ -1,0 +1,17 @@
+.section{
+
+   background-color: #62C370;
+   padding-top:50px ;
+   padding-bottom: 100px;
+   border-bottom: 10px solid black;
+
+}
+
+.section.-second{
+
+    background-color: #ffffff;
+    padding-top:50px ;
+    padding-bottom: 100px;
+    border-bottom: 10px solid black;
+ 
+ }
