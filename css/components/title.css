@@ -26,10 +26,31 @@ text-align: center;
     
     }
 
-    .title.-four{
+.title.-four{
 
         color: #ff4800;
     
        
         
         }
+.title.-five{
+
+            color: #1100ff;
+        
+           
+            
+            }
+ .title.-six{
+
+                color: #ffffff;
+            
+               
+                
+                }
+.title.-seven{
+
+                    color: #000000;
+                    text-shadow: none;
+                   
+                    
+                    }
