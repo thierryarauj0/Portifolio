@@ -53,4 +53,12 @@ text-align: center;
                     text-shadow: none;
                    
                     
-                    }
+}
+
+.title.-contato{
+
+color: white;
+text-align: center;
+text-shadow: 4px 4px 0px black;
+
+}
