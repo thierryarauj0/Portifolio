@@ -1,0 +1,10 @@
+.main-label{
+color: white;
+
+display: flexbox;
+justify-content: center;
+
+font-size: 30px;
+font-weight: 300px;
+line-height: 40px;
+}
