@@ -13,10 +13,16 @@ padding-right: 5px;
 
     height: 320px;
 }
+.main-input.-button:hover{
 
+    transform: scale(0.9) ;
+    opacity: 0.5;
+}
 .main-input.-button{
     font-family: 'Press Start 2P', sans-serif;
     font-size: large;
     color: white;
     background-color: #F25A70;
+    transition: transform 200ms linear, opacity 200ms ease-out;
+
 }
