@@ -64,3 +64,22 @@ text-shadow: 4px 4px 0px black;
 
 
 }
+
+.title.-spring{
+
+    color:  #dac049 ;
+    display: flex;
+   margin-left: 190px;
+    
+    
+}
+
+.title.-portfolio{
+
+    color:  #00a6a2 ;
+  display: flex;
+   margin-left: 760px;
+   
+    
+}
+
