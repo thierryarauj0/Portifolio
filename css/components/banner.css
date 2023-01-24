@@ -1,13 +1,11 @@
 .banner{
 
     background-color: #3A4042;
-    background-repeat: no-repeat;
     background-size: 100px;
-    height: 800px;
     padding: 48px 44px;
     display: block;
     flex-direction: column;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
    
 }
 
