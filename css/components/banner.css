@@ -3,7 +3,7 @@
     background-color: #3A4042;
     background-size: 100px;
     padding: 48px 44px;
-    display: block;
+    display: inline-block;
     flex-direction: column;
     margin-bottom: 100px;
    
