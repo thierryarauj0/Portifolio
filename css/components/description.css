@@ -9,3 +9,18 @@
     padding: 20px 20px;
     line-height: 1.8;
 }
+
+.description.-second{
+
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: medium;
+    color: white;
+    text-shadow: 2px 2px black;
+   text-align: left;
+    margin-top: 10px;
+    margin-left: 40px;
+    padding: 20px 20px;
+    line-height: 1.8
+    
+    ;
+}
