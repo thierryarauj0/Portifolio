@@ -1,6 +1,6 @@
 .button{
 
-    background-color: #F25A70;
+    background-color: #00a6a2;
     display:  inline-block ;
     padding: 18px 20px;
     margin-left: 170px;
@@ -9,7 +9,7 @@
     transition: transform 100ms linear, opacity 200ms ease-in-out;
     text-decoration: none;
     font-family: 'Press Start 2P', sans-serif ;
-    color: white;
+    color: #dac049;
 }   
 
 .button:hover{
@@ -21,7 +21,7 @@ opacity: 0.5;
 
 .button.-second{
 
-    background-color: #F25A70;
+    background-color: #15346a;
     display:  inline-block ;
     padding: 18px 20px;
     margin-left: 90px;

@@ -2,7 +2,7 @@
     font-family: 'Press Start 2P', sans-serif;
     font-size: 40px;
     text-shadow: 5px 5px 0px rgb(0, 0, 0);
-    color: #F25A70;
+    color: #dac049;
     margin-left: 20px;
     margin-bottom   : 20px;
     margin-top: 20px;
@@ -11,7 +11,7 @@
 
 .title.-second{
 
-color: #F25A70;
+color: #dac049;
 text-shadow: 5px 5px 0px rgb(0, 0, 0);
 text-align: center;
 
@@ -20,7 +20,8 @@ text-align: center;
 
 .title.-third{
 
-    color: #000000;
+    color: #dac049;
+    text-shadow: 5px 5px 0px rgb(0, 0, 0);
     text-align: center;
     text-shadow: none;
     

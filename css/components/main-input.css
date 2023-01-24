@@ -21,8 +21,8 @@ padding-right: 5px;
 .main-input.-button{
     font-family: 'Press Start 2P', sans-serif;
     font-size: large;
-    color: white;
-    background-color: #F25A70;
+    color: #dac049;
+    background-color: #00a6a2;
     transition: transform 200ms linear, opacity 200ms ease-out;
 
 }
