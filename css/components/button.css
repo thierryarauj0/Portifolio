@@ -33,3 +33,17 @@ opacity: 0.5;
     color: white;
 }   
 
+.button.-curriculum{
+
+    background-color: #15346a;
+    display:  inline-block ;
+    padding: 18px 20px;
+    margin-left: 600px;
+    margin-top: 32px;
+    box-shadow: 5px 0px black;
+    transition: transform 100ms linear, opacity 200ms ease-in-out;
+    text-decoration: none;
+    font-family: 'Press Start 2P', sans-serif ;
+    color: white;
+}   
+
