@@ -16,6 +16,8 @@
     display: flex;
     flex-direction: column;
     width: 260px;
+    margin-bottom: 300px;
+   
 }
 
 .banner .box {
