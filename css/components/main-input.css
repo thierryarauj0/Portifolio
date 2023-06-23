@@ -3,6 +3,7 @@
    box-sizing: border-box;
    height: 50px;
     box-shadow: 3px 3px 0px  black; 
+    text-shadow: 5px 1px 0px black;
     width: 100%;
 padding-left: 5px;
 padding-right: 5px;
